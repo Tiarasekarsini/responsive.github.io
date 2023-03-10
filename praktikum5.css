@@ -1,0 +1,41 @@
+body{
+    background-image: url("cloud.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    font-family: 'Port Lligat Slab', serif;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Port Lligat Slab', serif;
+    border: 2px solid grey;
+    background: white;
+    color: black;
+    box-shadow: 1px 1px 2px whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+}
+video{
+    display: block;
+    margin:auto;
+}
+audio{
+    display: block;
+    margin: auto;
+}
+img{
+    display: block;
+    margin: auto;
+}
